@@ -1,6 +1,6 @@
 <?php
 
-namespace Aa\Spryker\Shared\Discovery\Communication\Console;
+namespace Aa\SprykerDiscovery\Shared\Discovery\Communication\Console;
 
 use Spryker\Zed\Kernel\Communication\Console\Console;
 use Symfony\Component\Console\Input\InputArgument;

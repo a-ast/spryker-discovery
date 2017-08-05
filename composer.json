@@ -9,8 +9,8 @@
     ],
     "require": {},
     "autoload": {
-        "psr-0": {
-            "Aa": "src/"
+        "psr-4": {
+           "Aa\\SprykerDiscovery\\": "src/SprykerDiscovery"
         }
     }
 }
