@@ -7,5 +7,10 @@
             "email": "andrey.astakhov@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "Aa": "src/"
+        }
+    }
 }
