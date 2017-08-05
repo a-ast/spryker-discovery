@@ -1,0 +1,11 @@
+{
+    "name": "a-ast/spryker-discovery",
+    "type": "library",
+    "authors": [
+        {
+            "name": "AA",
+            "email": "andrey.astakhov@gmail.com"
+        }
+    ],
+    "require": {}
+}
